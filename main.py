@@ -7,7 +7,7 @@ def notifyme(title,message):
     notification.notify(
         title = title,
         message = message,
-        app_icon = "C:\\Users\\Hp\\Downloads\\covid.ico",
+        app_icon = "favicon.ico",
         timeout = 10
     )
 
