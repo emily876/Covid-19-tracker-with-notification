@@ -10,5 +10,5 @@
 
 ### This Program Will Only Work On Windows 10 Currently.
 
-## Be sure to stargaze the repository and also checkout My Website to contact me.
+**Be sure to stargaze the repository and also checkout My Website to contact me.**
 ### Thank You.
