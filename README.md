@@ -9,3 +9,6 @@
 5. Now save the file, close the editor and run main.py.
 
 ### This Program Will Only Work On Windows 10 Currently.
+
+## Be sure to stargaze the repository and also checkout My Website to contact me.
+### Thank You.
